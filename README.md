@@ -4,7 +4,7 @@
 O programa simula uma pesquisa de satisfação de uma empresa fictícia, com o objetivo de coletar e analisar avaliações fornecidas pelos usuários.
 1. Declaração de variáveis: O primeiro passo foi declarar as variáveis de entrada (inputs), que representam os dados fornecidos pelos usuários, definindo também seus respectivos tipos (como `String`, `Int`, `Double`, etc.).
 2. Laço de repetição: Em seguida, foi criado um laço de repetição para coletar um número `X` de avaliações, representando diferentes opiniões de usuários.
-3. Validação das respostas**: A cada iteração, o programa verifica o número digitado pelo usuário:
+3. Validação das respostas: A cada iteração, o programa verifica o número digitado pelo usuário:
    - Se for 1, exibe a mensagem *"Você avaliou como Excelente!"* e incrementa o contador de avaliações excelentes.
    - Se for 2, exibe *"Você avaliou como Bom!"* e incrementa o contador de avaliações boas.
    - Se for 3, exibe *"Você avaliou como Ruim."* e incrementa o contador de avaliações ruins.
